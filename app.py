@@ -1,7 +1,7 @@
 # keshav
 import streamlit as st
 st.title('DEMO App')
-st.write(''This is a demo app')
+st.write('This is a demo app')
 
 with st.sidebar:
   st.write('This is a sidebar')
