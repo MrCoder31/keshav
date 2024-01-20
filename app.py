@@ -14,6 +14,6 @@ with col2:
 sub=st.button(label='Submit')
 if sub:
   st.balloons()
-  st.write('a')
-  st.write('b')
+  st.write(a)
+  st.write(b)
 print(a)
