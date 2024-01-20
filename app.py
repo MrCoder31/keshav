@@ -16,6 +16,7 @@ if sub:
   st.balloons()
   st.write(a)
   st.write(b)
+  st.write(c)
   
 print(a)
 print(b)
